@@ -1,4 +1,4 @@
-# Multi-Line Insurance Claim Triage & Automated Assignment
+# Multi-Line-Insurance-Policy-and-Claims-Management-System
 
 Salesforce Flow + Agentforce project that retrieves a customer's latest claim,
 validates the linked policy, scores the claim's risk, creates a review task for
